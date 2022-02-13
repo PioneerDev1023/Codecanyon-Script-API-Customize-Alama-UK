@@ -1,0 +1,13 @@
+We are a small start-up company looking to recruit a developer with many years experience in PHP and react. Some experience in website security will be an added advantage but not compulsory.
+
+Your initial job will be to customize a script we bought from codecanyon.
+
+We are looking for a dev that will work with us long term. If you cannot commit to an ongoing job please do not apply.
+
+First Milestone
+
+1. Using API, pull digital products from our partners website... add them to our website for easy purchase
+
+2. Using API, impalement a crypto payment processor to process payment for digital products.
+
+3. Using API, implement an open banking api from our partner to process payment of digital products.
